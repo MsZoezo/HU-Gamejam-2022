@@ -10,4 +10,3 @@ TODO: info om de game te installeren. 🙄
 ## Ons team
 [Zoey Bosman](https://github.com/MsZoezo) - Developer<br>
 [Jaap Reerink](https://github.com/JTReerink) - Game Design<br>
-[Monique Wienholds](https://github.com/mononiek) - Game Art

@@ -6,22 +6,14 @@ using System;
 using TMPro;
 
 public class CloseButtonScript : MonoBehaviour
-{   
-    // Start is called before the first frame update
+{
+    private GameObject window;
     void Start()
     {
-        
+        window = transform.parent.parent.gameObject;
     }
-
-    // Update is called once per frame
-    void Update()
+    public void CloseWindow()
     {
-        
-    }
-
-
-    private void CloseWindow()
-    {
-
+        window.SetActive(false);
     }
 }

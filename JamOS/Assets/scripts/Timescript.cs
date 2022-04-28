@@ -20,5 +20,4 @@ public class Timescript : MonoBehaviour
         currentTime.text = DateTime.Now.ToShortTimeString();
     }
 
-
 }

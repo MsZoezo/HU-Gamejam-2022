@@ -17,7 +17,7 @@ public class Timescript : MonoBehaviour
 
     private void Update()
     {
-        currentTime.text = DateTime.Now.ToShortTimeString();
+        currentTime.text = DateTime.Now.ToString("HH:MM\ndd/MM/yy");
     }
 
 }

@@ -6,9 +6,7 @@ using System;
 using TMPro;
 
 public class CloseButtonScript : MonoBehaviour
-{
-    
-    
+{   
     // Start is called before the first frame update
     void Start()
     {
